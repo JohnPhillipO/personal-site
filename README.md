@@ -1,2 +1,2 @@
-# personal-stie
+# Personal Webstie
 My personal website.
